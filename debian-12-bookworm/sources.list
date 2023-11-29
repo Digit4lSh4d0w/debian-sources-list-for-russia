@@ -1,0 +1,14 @@
+deb https://mirror.truenetwork.ru/debian/ bookworm contrib main non-free non-free-firmware
+deb-src https://mirror.truenetwork.ru/debian/ bookworm contrib main non-free non-free-firmware
+
+deb https://mirror.truenetwork.ru/debian/ bookworm-updates contrib main non-free non-free-firmware
+deb-src https://mirror.truenetwork.ru/debian/ bookworm-updates contrib main non-free non-free-firmware
+
+deb https://mirror.truenetwork.ru/debian/ bookworm-proposed-updates contrib main non-free non-free-firmware
+deb-src https://mirror.truenetwork.ru/debian/ bookworm-proposed-updates contrib main non-free non-free-firmware
+
+deb https://mirror.truenetwork.ru/debian/ bookworm-backports contrib main non-free non-free-firmware
+deb-src https://mirror.truenetwork.ru/debian/ bookworm-backports contrib main non-free non-free-firmware
+
+deb https://mirror.truenetwork.ru/debian-security/ bookworm-security contrib main non-free non-free-firmware
+deb-src https://mirror.truenetwork.ru/debian-security/ bookworm-security contrib main non-free non-free-firmware
