@@ -1,0 +1,11 @@
+deb http://mirror.truenetwork.ru/debian buster main contrib non-free
+deb-src http://mirror.truenetwork.ru/debian buster main contrib non-free
+
+deb http://mirror.truenetwork.ru/debian buster-updates main contrib non-free
+deb-src http://mirror.truenetwork.ru/debian buster-updates main contrib non-free
+
+deb http://mirror.truenetwork.ru/debian buster-backports main contrib non-free
+deb-src http://mirror.truenetwork.ru/debian buster-backports main contrib non-free
+
+deb http://mirror.truenetwork.ru/debian-security/ buster/updates main contrib non-free
+deb-src http://mirror.truenetwork.ru/debian-security/ buster/updates main contrib non-free
