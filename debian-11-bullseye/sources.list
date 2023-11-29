@@ -1,0 +1,11 @@
+deb http://mirror.truenetwork.ru/debian bullseye main contrib non-free
+deb-src http://mirror.truenetwork.ru/debian bullseye main contrib non-free
+
+deb http://mirror.truenetwork.ru/debian bullseye-updates main contrib non-free
+deb-src http://mirror.truenetwork.ru/debian bullseye-updates main contrib non-free
+
+deb http://mirror.truenetwork.ru/debian bullseye-backports main contrib non-free
+deb-src http://mirror.truenetwork.ru/debian bullseye-backports main contrib non-free
+
+deb http://mirror.truenetwork.ru/debian-security/ bullseye-security main contrib non-free
+deb-src http://mirror.truenetwork.ru/debian-security/ bullseye-security main contrib non-free
